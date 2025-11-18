@@ -6,9 +6,9 @@ app = Flask(__name__)
 def index():
     return """
     <html>
-      <head><title>pppeeekkkk</title></head>
+      <head><title>awoakwok</title></head>
       <body>
-        <h1>Ujian BNSP</h1>
+        <h1>mampus</h1>
         <p>Nama: Luluk Dwi Kuncoro</p>
         <p>Layanan ini dideploy di VPS dengan Docker + CI/CD + Monitoring (Prometheus & Grafana).</p>
       </body>
