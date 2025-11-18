@@ -10,7 +10,7 @@ def index():
       <body>
         <h1>Ujian BNSP</h1>
         <p>Nama: Luluk Dwi Kuncoro</p>
-        <p>layanan ini saya membuat dengan berbagai macam seperti VPS + Docker + CI/CD + Monitoring (Prometheus & Grafana).</p>
+        <p>layanan ini saya membuat dengan berbagai macam seperti VPS + Docker + CI/CD + Monitoring (Prometheus & Grafana)</p>
       </body>
     </html>
     """
